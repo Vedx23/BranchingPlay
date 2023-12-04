@@ -4,3 +4,4 @@ Name: Henry
 Likes: fruits and playing fetch 
 Color: Red, Blue, White
 Habitat: Evergreen Rain Forest
+Location: Venezuela

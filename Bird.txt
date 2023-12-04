@@ -1,0 +1,4 @@
+Species: Aves
+Vaccination Status: PARTIAL OK;
+Name: Henry
+Likes: fruits and playing fetch 

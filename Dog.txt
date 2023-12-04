@@ -3,3 +3,4 @@ Vaccination Status: OK
 Name: Bubbles
 Likes: toys and shoes
 Mark: cut on left upper ear
+Color: Golden Brown

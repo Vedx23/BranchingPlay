@@ -3,3 +3,4 @@ Vaccination Status: PARTIAL OK;
 Name: Henry
 Likes: fruits and playing fetch 
 Color: Red, Blue, White
+Habitat: Evergreen Rain Forest
